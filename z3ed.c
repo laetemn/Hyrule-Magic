@@ -9800,7 +9800,7 @@ Savetext(FDOC*doc)
 // =============================================================================
 
 const char z_alphabet[]=
-    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?-.,\0>()@£${}\"\0\0\0\0'\0\0\0\0\0\0\0 <\0\0\0\0";
+    "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!?-.,\0>()@Â£${}\"\0\0\0\0'\0\0\0\0\0\0\0 <\0\0\0\0";
 const static char*tsym_str[]=
 {
     "Up",
